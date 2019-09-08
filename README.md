@@ -1,1 +1,2 @@
-Intersys
+Solution is split into 2 files, one for C# and one for JavaScript, named Solution.cs and Solution.js respectively.
+Some basics tests are provided for all tasks in SolutionTests.cs and SolutionTests.js files.
