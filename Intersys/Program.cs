@@ -13,6 +13,7 @@ namespace Intersys
         {
             SolutionTests tests = new SolutionTests(new Solution());
             tests.Run();
+
             Console.Read();
         }
     }

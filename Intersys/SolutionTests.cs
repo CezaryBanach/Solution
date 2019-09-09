@@ -126,7 +126,7 @@ namespace Intersys
             var res2 = stringWriter.ToString();
             ClearWriter(stringWriter);
 
-            output += "Case 2: " + (res1 == "NO");
+            output += "Case 2: " + (res2 == "NO");
             return output;
         }
         private string ExistingPowersOf2()
@@ -230,7 +230,7 @@ namespace Intersys
             var res2 = stringWriter.ToString();
             ClearWriter(stringWriter);
 
-            output += "Case 2: " + (res1 == ("2"));
+            output += "Case 2: " + (res2 == ("2"));
             return output;
         }
     }
